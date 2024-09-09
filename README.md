@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am currently working on building cybersecurity knowledge and earn a OCSP certification.<br>🤝 I am looking to collaborate on open source projects and HTB machines.<br>
+🔭 I am currently working on building cybersecurity knowledge and earn a OSCP certification.<br>🤝 I am looking to collaborate on open source projects and HTB machines.<br>
 
 
 ## 🌐 Socials:
